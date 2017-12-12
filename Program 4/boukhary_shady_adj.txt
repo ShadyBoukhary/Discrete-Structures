@@ -1,0 +1,57 @@
+Shady Boukhary - Adjacency Matrices
+
+Matrix 1
+INVALID
+
+Matrix 2
+Degree of:
+Vertex A: 3
+Vertex B: 2
+Vertex C: 2
+Vertex D: 2
+Vertex E: 3
+Number of Edges: 6
+
+Matrix 3
+INVALID
+
+Matrix 4
+INVALID
+
+Matrix 5
+Degree of:
+Vertex A: 4
+Vertex B: 3
+Vertex C: 3
+Vertex D: 5
+Vertex E: 3
+Vertex F: 2
+Number of Edges: 10
+
+Matrix 6
+Degree of:
+Vertex A: 1
+Vertex B: 0
+Vertex C: 1
+Number of Edges: 1
+
+Matrix 7
+INVALID
+
+Matrix 8
+Degree of:
+Vertex A: 0
+Vertex B: 0
+Vertex C: 0
+Number of Edges: 0
+
+Matrix 9
+INVALID
+
+Matrix 10
+Degree of:
+Vertex A: 2
+Vertex B: 2
+Vertex C: 2
+Number of Edges: 3
+
